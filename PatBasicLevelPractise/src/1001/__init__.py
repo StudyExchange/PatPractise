@@ -1,3 +1,4 @@
+#害死人不偿命的(3n+1)猜想 (15)
 #input
 inputStr = input()
 number = int(inputStr)

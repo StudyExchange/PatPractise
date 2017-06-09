@@ -1,3 +1,5 @@
+#写出这个数 (20)
+
 #import
 import math
 
