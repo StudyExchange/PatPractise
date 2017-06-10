@@ -1,4 +1,4 @@
-#³É¼¨ÅÅÃû (20)
+#1004. æˆç»©æ’å (20)
 
 #import
 from _ast import Num

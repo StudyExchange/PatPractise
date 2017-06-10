@@ -1,4 +1,3 @@
-import re
-
-print(re.match('www', 'www.runoob.com').span())
-print(re.match('com', 'www.runoob.com'))
+import math
+n = 10.3
+print(math.floor(n))
